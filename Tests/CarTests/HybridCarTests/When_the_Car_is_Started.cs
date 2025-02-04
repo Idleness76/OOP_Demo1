@@ -10,7 +10,8 @@ namespace Tests.CarTests.HybridCarTests
         public void SetUp()
         {
             base.Setup();
-            SUT.Start();
+            var startable = (IStartable)SUT;
+            startable.Start();
         }
 
         [Test]
