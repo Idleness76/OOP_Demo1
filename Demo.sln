@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		02-introduction.md = 02-introduction.md
 		03-pillars.md = 03-pillars.md
 		04-solid.md = 04-solid.md
+		05-patterns.md = 05-patterns.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{A07E0848-F287-4001-8AB2-CBE31390644B}"
